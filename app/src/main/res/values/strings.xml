@@ -7,4 +7,5 @@
     <string name="qrcode">QRCode</string>
     <string name="scan_me">Scan Me</string>
     <string name="result">Result</string>
+    <string name="raw_value">raw value:</string>
 </resources>
