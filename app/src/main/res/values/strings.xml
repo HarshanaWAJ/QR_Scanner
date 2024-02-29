@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">QR_Scanner</string>
     <string name="logo">QR_logo</string>
+    <string name="app_header">QR Code &amp; Barcode Scanner</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="qrcode">QRCode</string>
+    <string name="scan_me">Scan Me</string>
+    <string name="result">Result</string>
 </resources>
